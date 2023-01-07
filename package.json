@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "ethers": "^5.7.2",
+    "http-server": "^14.1.1"
+  }
+}
