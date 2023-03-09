@@ -1,7 +1,8 @@
 // run yarn hardhat node, and get the address from the console
 // deploying "Ballot" (tx: ...
 // deployed at 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512 with 976407 gas
-export const contractAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+//export const contractAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+export const contractAddress = "0x7C52432F69c0FCc49d70cc64837aaB7Ff75787f0"
 
 // copy from backend project 01-deploy-ballot.js
 export const proposals = [
